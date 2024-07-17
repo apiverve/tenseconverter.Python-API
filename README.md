@@ -47,7 +47,7 @@ Using the API client, you can perform requests to the API.
 ###### Define Query
 
 ```
-query = {  "text": "I am walking down the street, and I can see a dog",  "tense": "past"}
+query = {  "text": "I am walking down the street, and I can see a dog",  "tense": "past" }
 ```
 
 ###### Simple Request
